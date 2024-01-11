@@ -3,7 +3,7 @@ from math import floor
 
 
 def get_cart_weight(cart):
-    """calculate weight of cart"""
+    """calculate weight of cart for validation"""
 
     cart_weight = {'lb': 0,
                    'oz': 0}
