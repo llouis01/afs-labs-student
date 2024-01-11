@@ -23,6 +23,6 @@ spec:
         - secretRef:
             name: db-secret
         name: app-deployment
-        image: registry.dev.afsmtddso.com/llouis-harbor-project/lab-env-repo:1.0
+        image: registry.dev.afsmtddso.com/llouis-harbor-project/app:db694f3-054031c
         ports:
         - containerPort: 5000

@@ -1,4 +1,4 @@
---
+-- Adding comment to test
 -- PostgreSQL database dump
 --
 

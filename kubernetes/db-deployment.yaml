@@ -23,6 +23,6 @@ spec:
         - secretRef:
             name: db-secret
         name: db-deployment
-        image: registry.dev.afsmtddso.com/llouis-harbor-project/db:971c881-048440d
+        image: registry.dev.afsmtddso.com/llouis-harbor-project/db:db694f3-048440d
         ports:
         - containerPort: 5432
